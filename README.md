@@ -4,5 +4,5 @@ Practicing Git &amp; Github for collaboration
 
 ## Who has been here?
 
-- [ ] serranoarevalo
+- [x] serranoarevalo
 - [ ] juanpablorm
